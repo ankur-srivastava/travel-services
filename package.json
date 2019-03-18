@@ -1,0 +1,23 @@
+{
+  "name": "travel-services",
+  "version": "1.0.0",
+  "description": "A simple site offering travel services",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ankur-srivastava/travel-services.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ankur-srivastava/travel-services/issues"
+  },
+  "homepage": "https://github.com/ankur-srivastava/travel-services#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "express3-handlebars": "^0.5.2"
+  }
+}
